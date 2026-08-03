@@ -15,6 +15,8 @@ Managing higher education operations requires an efficient, normalized relationa
 * **Faculty Assignment:** Every course must be assigned to exactly one lead professor.
 * **Department Constraints:** A professor belongs to one primary department but can teach courses cross-listed in other departments.
 
+---
+
 ## 🏗️ Key Features & Technical Highlights
 
 * **Data Definition Language (DDL):**
