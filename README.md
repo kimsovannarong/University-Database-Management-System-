@@ -9,6 +9,11 @@ A relational database project focused on designing a structured university manag
 Managing higher education operations requires an efficient, normalized relational database to track students, courses, faculty, departments, and enrollment records. This project models core university administration workflows and demonstrates practical SQL skills in database design, data integrity, multi-table joins, aggregations, and subqueries.
 
 ---
+## 🎯 Business Rules & Assumptions
+
+* **Student Enrollment:** A student can enroll in multiple courses per semester, but cannot enroll in the same course twice in a single semester.
+* **Faculty Assignment:** Every course must be assigned to exactly one lead professor.
+* **Department Constraints:** A professor belongs to one primary department but can teach courses cross-listed in other departments.
 
 ## 🏗️ Key Features & Technical Highlights
 
@@ -18,7 +23,7 @@ Managing higher education operations requires an efficient, normalized relationa
 * **Data Manipulation Language (DML):**
   * Populated tables with realistic academic datasets (students, professors, departments, courses, grades).
   * Written complex queries featuring multi-table `JOIN` operations, conditional logic (`CASE WHEN`), group aggregations (`GROUP BY`, `HAVING`), and nested subqueries.
-
+  * 
 ---
 ## 🛠️ Tech Stack & Tools
 
