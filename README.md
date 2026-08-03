@@ -28,5 +28,7 @@ Managing higher education operations requires an efficient, normalized relationa
 
 ---
 ## 📐 Entity-Relationship Diagram (ERD)
+![ERD Diagram](https://github.com/kimsovannarong/University-Database-Management-System-/blob/e98b76f96ed09c819c0b66efff81faf47b3768f5/DB_PRO.drawio%20(2).png
+)
 ---
 ## 📐 Relational Model (RM)
