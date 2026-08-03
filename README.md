@@ -22,9 +22,9 @@ Managing higher education operations requires an efficient, normalized relationa
 ---
 ## 🛠️ Tech Stack & Tools
 
-* **Database Engine:** PostgreSQL / MySQL / SQLite *(Choose yours)*
+* **Database Engine:** MySQL*
 * **Query Language:** SQL (DDL, DML)
-* **Modeling Tools:** dbdiagram.io / MySQL Workbench
+* **Modeling Tools:** draw.io / MySQL Workbench
 
 ---
 ## 📐 Entity-Relationship Diagram (ERD)
