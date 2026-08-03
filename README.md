@@ -32,3 +32,4 @@ Managing higher education operations requires an efficient, normalized relationa
 )
 ---
 ## 📐 Relational Model (RM)
+![RM Diagram](https://github.com/kimsovannarong/University-Database-Management-System-/blob/79509fe422690f0741c489660193105ae6da06a9/RM_Project%20(2).png)
